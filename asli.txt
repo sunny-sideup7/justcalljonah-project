@@ -1,0 +1,888 @@
+
+	<!DOCTYPE html>
+<html lang="en-US">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XLBYK2YR5G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XLBYK2YR5G');
+</script>
+<head>
+	<meta charset="UTF-8" />
+    <meta name="google-site-verification" content="GETtaGTye3n-8Ur9c4oOu8OkBWhIlNxfRCTy7lagKqk" />	
+	
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		
+            
+                        <link rel="shortcut icon" type="image/x-icon" href="https://justcalljonah.com/wp-content/uploads/2020/08/JONAH-copy-1.gif">
+            <link rel="apple-touch-icon" href="https://justcalljonah.com/wp-content/uploads/2020/08/JONAH-copy-1.gif"/>
+        
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://justcalljonah.com/xmlrpc.php" />
+
+	<title>JUST CALL JONAH | x Services</title>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1598901876989{padding-top: 123px !important;}.vc_custom_1598901897922{padding-top: 123px !important;}.vc_custom_1512392903092{padding-top: 123px !important;}</style><link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="JUST CALL JONAH &raquo; Feed" href="https://justcalljonah.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JUST CALL JONAH &raquo; Comments Feed" href="https://justcalljonah.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/justcalljonah.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css'  href='https://justcalljonah.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://justcalljonah.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://justcalljonah.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://justcalljonah.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.0.9' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://justcalljonah.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://justcalljonah.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-default-style-css'  href='https://justcalljonah.com/wp-content/themes/bridge/style.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_awesome-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_elegant-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-linea_icons-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/linea-icons/style.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-dripicons-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-stylesheet-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/stylesheet.min.css?ver=5.5.18' type='text/css' media='all' />
+<style id='bridge-stylesheet-inline-css' type='text/css'>
+   .page-id-232.disabled_footer_top .footer_top_holder, .page-id-232.disabled_footer_bottom .footer_bottom_holder { display: none;}
+
+
+</style>
+<link rel='stylesheet' id='bridge-print-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/print.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/style_dynamic.css?ver=1600281656' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-responsive-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/responsive.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-responsive-css'  href='https://justcalljonah.com/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1600281656' type='text/css' media='all' />
+<style id='bridge-style-dynamic-responsive-inline-css' type='text/css'>
+shadow {
+ text-shadow: 2px 2px 3px black;
+  color: red;
+  font-weight: 800;
+  font-family: quicksand;
+  font-size: 20px;
+ border: 1px; 
+ border-style: solid; 
+ border-color: white; 
+ padding: 5px;
+}
+
+.highlight{
+    display: inline-block;
+    position: relative;
+}
+
+.highlight:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    background-color: #ffdc39;
+    width: 100%;
+    height: 0.5em;
+    z-index:-1;
+}
+
+.subtitle{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.footer_top h5{
+margin-bottom: 36px;
+}
+
+@media only screen and (min-width: 1000px){
+footer .qode-instagram-feed{
+padding-right: 25%;
+}
+}
+
+@media only screen and (max-width: 768px){
+    .qbutton.big_large_full_width{
+        padding: 0;
+    }
+}
+
+.header_inner_right .icon_text_inner{
+    padding: 0;
+}
+
+.header_inner_right .q_icon_with_title .icon_title_holder{
+    margin: 0;
+}
+
+.header_inner_right .widget_custom_html{
+    display: inline-block;
+}
+
+.header_inner_right .widget_custom_html:first-child{
+    position: relative;
+    top: 5px;
+    margin-right: 10px
+}
+
+.header_inner_right .widget_custom_html:nth-child(2){
+    position: relative;
+    top: -9px;
+}
+
+.header_inner_right .widget_custom_html .q_icon_with_title .icon_title_holder .icon_holder>span{
+    top: 7px;
+}
+
+.header_inner_right .widget_custom_html .q_icon_with_title .icon_text_holder h5.icon_title{
+    font-size: 19px;
+    letter-spacing: 0;
+}
+
+.q_elements_holder.eh-with-shadow{
+    box-shadow: -3px 0px 15px 1px rgba(0, 0, 0, 0.08);
+}
+
+header.sticky.sticky_animate .header_inner_right .q_icon_with_title .icon_holder  i, header.sticky.sticky_animate .header_inner_right .q_icon_with_title .icon_title{
+    color: #222!important;
+}
+
+@media only screen and (max-width: 768px){
+.subtitle{
+display: none;
+}
+}
+
+@media only screen and (max-width: 600px){
+.title.title_size_medium h1{
+font-size: 45px;
+}
+}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='https://justcalljonah.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-handle-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7CPoppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7COpen+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7CQuicksand%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://justcalljonah.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
+<![endif]-->
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=5.5.18' id='ScrollToPlugin-js'></script>
+<script type='text/javascript' id='layerslider-greensock-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.8.4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0' id='layerslider-greensock-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.8.4' id='layerslider-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.8.4' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.0.9' id='revmin-js'></script>
+<meta name="generator" content="Powered by LayerSlider 6.8.4 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://justcalljonah.com/wp-json/" /><link rel="alternate" type="application/json" href="https://justcalljonah.com/wp-json/wp/v2/pages/232" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://justcalljonah.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://justcalljonah.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.18" />
+<link rel='shortlink' href='https://justcalljonah.com/?p=232' />
+<link rel="alternate" type="application/json+oembed" href="https://justcalljonah.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjustcalljonah.com%2Fservices%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://justcalljonah.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjustcalljonah.com%2Fservices%2F&#038;format=xml" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.0.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(a){try{var b,c=document.getElementById(a.c).parentNode.offsetWidth;if(c=0===c||isNaN(c)?window.innerWidth:c,a.tabw=void 0===a.tabw?0:parseInt(a.tabw),a.thumbw=void 0===a.thumbw?0:parseInt(a.thumbw),a.tabh=void 0===a.tabh?0:parseInt(a.tabh),a.thumbh=void 0===a.thumbh?0:parseInt(a.thumbh),a.tabhide=void 0===a.tabhide?0:parseInt(a.tabhide),a.thumbhide=void 0===a.thumbhide?0:parseInt(a.thumbhide),a.mh=void 0===a.mh||""==a.mh?0:a.mh,"fullscreen"===a.layout||"fullscreen"===a.l)b=Math.max(a.mh,window.innerHeight);else{for(var d in a.gw=Array.isArray(a.gw)?a.gw:[a.gw],a.rl)(void 0===a.gw[d]||0===a.gw[d])&&(a.gw[d]=a.gw[d-1]);for(var d in a.gh=void 0===a.el||""===a.el||Array.isArray(a.el)&&0==a.el.length?a.gh:a.el,a.gh=Array.isArray(a.gh)?a.gh:[a.gh],a.rl)(void 0===a.gh[d]||0===a.gh[d])&&(a.gh[d]=a.gh[d-1]);var e,f=Array(a.rl.length),g=0;for(var d in a.tabw=a.tabhide>=c?0:a.tabw,a.thumbw=a.thumbhide>=c?0:a.thumbw,a.tabh=a.tabhide>=c?0:a.tabh,a.thumbh=a.thumbhide>=c?0:a.thumbh,a.rl)f[d]=a.rl[d]<window.innerWidth?0:a.rl[d];for(var d in e=f[0],f)e>f[d]&&0<f[d]&&(e=f[d],g=d);var h=c>a.gw[g]+a.tabw+a.thumbw?1:(c-(a.tabw+a.thumbw))/a.gw[g];b=a.gh[g]*h+(a.tabh+a.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(a.c).height=b,window.rs_init_css.innerHTML+="#"+a.c+"_wrapper { height: "+b+"px }"}catch(a){console.log("Failure at Presize of Slider:"+a)}};</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="page-template page-template-full_width page-template-full_width-php page page-id-232 bridge-core-1.0.6  qode_grid_1300 footer_responsive_adv qode-theme-ver-18.2 qode-theme-bridge wpb-js-composer js-comp-ver-6.0.5 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+
+
+
+
+<div class="wrapper">
+	<div class="wrapper_inner">
+
+    
+		<!-- Google Analytics start -->
+				<!-- Google Analytics end -->
+
+		
+	<header class=" scroll_header_top_area light regular transparent page_header">
+    <div class="header_inner clearfix">
+                <div class="header_top_bottom_holder">
+            
+            <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 0);' >
+                
+                            <div class="header_inner_left">
+                                									<div class="mobile_menu_button">
+		<span>
+			<i class="qode_icon_font_awesome fa fa-bars " ></i>		</span>
+	</div>
+                                <div class="logo_wrapper" >
+	<div class="q_logo">
+		<a itemprop="url" href="https://justcalljonah.com/" >
+             <img itemprop="image" class="normal" src="https://justcalljonah.com/wp-content/uploads/2020/09/JustCallJonah-Logo-1-2.png" alt="Logo"> 			 <img itemprop="image" class="light" src="https://justcalljonah.com/wp-content/uploads/2020/09/JustCallJonah-Logo-1-2.png" alt="Logo"/> 			 <img itemprop="image" class="dark" src="https://justcalljonah.com/wp-content/uploads/2020/09/JustCallJonah-Logo-1-2.png" alt="Logo"/> 			 <img itemprop="image" class="sticky" src="https://justcalljonah.com/wp-content/uploads/2020/09/JustCallJonah-Logo-1-2.png" alt="Logo"/> 			 <img itemprop="image" class="mobile" src="https://justcalljonah.com/wp-content/uploads/2020/09/JustCallJonah-Logo-1-2.png" alt="Logo"/> 					</a>
+	</div>
+	</div>                                                            </div>
+                                                                    <div class="header_inner_right">
+                                        <div class="side_menu_button_wrapper right">
+                                                                                            <div class="header_bottom_right_widget_holder"><div class="widget_text header_bottom_widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="tel:2013965494"><shadow> &nbsp; <i class="fa fa-phone"></i> &nbsp;  CALL 201-396-5494 &nbsp; </shadow></a></div></div></div>
+                                                                                                                                    <div class="side_menu_button">
+                                                                                                                                                                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                                <nav class="main_menu drop_down right">
+                                    <ul id="menu-main-menu" class=""><li id="nav-menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="https://justcalljonah.com/" class=""><i class="menu_icon blank fa"></i><span>Home</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://justcalljonah.com/just-call-jonah-about-us/" class=""><i class="menu_icon blank fa"></i><span>About</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://justcalljonah.com/news-blog/" class=""><i class="menu_icon blank fa"></i><span>News</span><span class="plus"></span></a></li>
+<li id="nav-menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://justcalljonah.com/get-in-touch/" class=""><i class="menu_icon blank fa"></i><span>Contact</span><span class="plus"></span></a></li>
+</ul>                                </nav>
+                                							    <nav class="mobile_menu">
+	<ul id="menu-main-menu-1" class=""><li id="mobile-menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://justcalljonah.com/" class=""><span>Home</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://justcalljonah.com/just-call-jonah-about-us/" class=""><span>About</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://justcalljonah.com/news-blog/" class=""><span>News</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://justcalljonah.com/get-in-touch/" class=""><span>Contact</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul></nav>                                                </div>
+            </div>
+        </div>
+</header>	<a id="back_to_top" href="#">
+        <span class="fa-stack">
+            <i class="qode_icon_font_awesome fa fa-arrow-up " ></i>        </span>
+	</a>
+	
+	
+    
+    
+    <div class="content ">
+        <div class="content_inner  ">
+    			<div class="title_outer title_without_animation"    data-height="548">
+		<div class="title title_size_medium  position_center  has_background" style="background-size:1920px auto;background-image:url(https://justcalljonah.com/wp-content/uploads/2020/08/1140-wife-hugging-husband-in-wheelchair-2.jpg);height:548px;">
+			<div class="image not_responsive"><img itemprop="image" src="https://justcalljonah.com/wp-content/uploads/2020/08/1140-wife-hugging-husband-in-wheelchair-2.jpg" alt="&nbsp;" /> </div>
+										<div class="title_holder"  style="padding-top:40px;height:508px;">
+					<div class="container">
+						<div class="container_inner clearfix">
+								<div class="title_subtitle_holder" >
+                                                                									<div class="title_subtitle_holder_inner">
+																										<h1  style="color:#ffffff" ><span>x Services</span></h1>
+																	
+																														<span class="subtitle"  >JUST CALL JONAH is dedicated to providing the best service to our Customers and consider them family!</span>
+																																													</div>
+								                                                            </div>
+						</div>
+					</div>
+				</div>
+								</div>
+			</div>
+			<div class="full_width">
+	<div class="full_width_inner" >
+										<div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 100px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span class='highlight' style='color: #222222; background-color:transparent;'>Reliable Help</span> For All Your Local Delivery &amp; Transportation Needs</h2>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 28px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>WE DO IT ALL</h3>
+<p>For All Your Local Delivery &amp; Transportation Needs. Shopping, Deliveries, Errands, Computer Help, Mobile Phone Help, Expert Help with All Apps&#8230; Our mission is to make your life easier with personal assistant services from competent people you can trust.<br />
+We know getting everything you need done can be stressful, so our job is to help you by providing services to fit your needs, at reasonable prices.<br />
+	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<br />
+What do you need help with? We’re here for you!</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 28px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>OUR RATES</h3>
+<p>We strive to always provide the best services for the best price. Most of our personal assistant services inside Rockaway, NJ are $20 to $25 per hour. More involved or complex projects range from $30 to $40 per hour. One hour is the minimum per service, and each subsequent hour is pro-rated to the nearest fifteen minutes. Transportation outside of Rockaway is an additional charge of $.58/mile.<br />
+	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<br />
+We offer discounted rates for clients that require a minimum of 30 hours per month. Call today!</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 100px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1598901876989 grid_section" style='background-color:#cccccc; text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-travel-2.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Transportation</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Do you need reliable transportation to the airport, the store, the doctor, or even the beauty salon? Are you moving and need something hauled out or disposed of? Call us at least 1 hour in advance or schedule in advance. Rates start at $20-$25 per hour depending on time, distance, and complexity of transport. Please call for the most up to date pricing.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 34px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-Delivery-1.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Delivery</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Do you need your prescriptions or cleaning picked up? Do you need local food delivery and can’t wait for DoorDash or GrubHub? Call us and we can get it done. Rates start at $20-$25 per hour depending on time, distance, and complexity. Please call for the most up to date pricing.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 34px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-shopping-1.jpg" class="vc_single_image-img attachment-medium" alt="Delivery services for seniors" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Errands &amp; Shopping</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Do you need something returned to the store? Or general help with household chores? Do you need someone to wait for a special delivery, or cable, phone, or other workmen? We can work with you to create a shopping list and DO the local shopping for you. Rates start at $20-$25 per hour depending on time, distance, and complexity. Please call for the most up to date pricing.</p>
+
+		</div> 
+	</div> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1598901897922 grid_section" style='background-color:#cccccc; text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-computer-1.jpg" class="vc_single_image-img attachment-medium" alt="We help seniors get help" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Computer, Phone &amp; Apps</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">We can provide an expert and personalized step-by-step process to assist you with your computer setup, or cell phone assistance, or help setting up, or working your apps. We love working with Seniors. Do you need your Home Office set up or your new Media Center configured? Call us!</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 34px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-seasonal-1.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Seasonal Services</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Do you need local snow removal or sidewalk salting? Lawn cut or leaves picked up? Do you need extra help around the Holidays? We can help with: Christmas Tree Setup and Removal, We can shop for &amp; install your decorations. We specialize in gift wrapping, toy assembly, light Installation and/or removal.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 34px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="245" src="https://justcalljonah.com/wp-content/uploads/2020/08/1-travel-1.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy" /></div>
+		</div>
+	</div>
+	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Travel Planning</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Do you, or your senior parents, need extra help in planning for the next trip or vacation? We can help with custom trip planning &amp; travel booking to ensure your family or parent’s trip is productive and enjoyable. And of course, we’ll get you to the airport on time and maybe even help make sure your pets are well taken care of while you’re away.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 34px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 50px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">OTHER SERVICES</h3>
+
+		</div> 
+	</div> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1512392903092 grid_section" style=' text-align:center;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-4 vc_col-md-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Transporting Vehicles<br />
+Deliveries<br />
+Wait for a Home Delivery or Workman<br />
+Pet Sitting<br />
+House Sitting<br />
+Prescription Pick-up &amp; Delivery<br />
+Running Errands<br />
+Grocery Shopping &amp; Delivery<br />
+Return Items<br />
+Shopping for Specific Items</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Furniture Assembly<br />
+Home Office Setup &amp; Organization<br />
+Office Shopping &amp; Delivery<br />
+Office Moving<br />
+Data Entry<br />
+Research<br />
+Computer Help<br />
+Mobile Phone Help<br />
+Expert Help with All Apps<br />
+Virtual Assistant</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Winter Services: Sidewalk Salting &amp; Residential Snow Removal<br />
+Holiday Services: Christmas Tree Removal, Shop For &amp; Install Decorations, Gift Wrapping,<br />
+Toy Assembly, Holiday Light Installation and/or Removal<br />
+Event &amp; Party Services: Help Cooking &amp; Serving Food, Shop For &amp; Install Decorations, Birthday and Party Planning<br />
+Drop Off Donations</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 19px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 50px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<div class="separator  normal   " style="background-color: #c1c1c1;"></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Do you have questions or just want to run an idea by us?</h3>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">CALL 201-396-5494 or <a href="https://justcalljonah.com/get-in-touch/">CONTACT US</a> to ask.</p>
+<p style="text-align: center;">LET’S GET STARTED!</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 50px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</div></div></div></div></div></div>
+										 
+												</div>
+	</div>
+				
+	</div>
+</div>
+
+
+
+	<footer >
+		<div class="footer_inner clearfix">
+				<div class="footer_top_holder">
+            			<div class="footer_top">
+								<div class="container">
+					<div class="container_inner">
+																	<div class="three_columns clearfix">
+								<div class="column1 footer_col1">
+									<div class="column_inner">
+										<div id="text-6" class="widget widget_text"><h5>Just Call Jonah</h5>			<div class="textwidget"><p>We are a small Personal Assistant Service that takes pride in treating our Customers like family! We know getting everything you need done can be stressful, so our job is to help you by providing services to fit your needs, at reasonable prices.<br />
+	<div class="vc_empty_space"  style="height: 5px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<br />
+We look forward to speaking with you!<br />
+	<div class="vc_empty_space"  style="height: 5px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<br />
+<a href="https://justcalljonah.com/friends-of-jonah/">Friends Of Jonah Links</a><br />
+	<div class="vc_empty_space"  style="height: 30px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</p>
+</div>
+		</div>									</div>
+								</div>
+								<div class="column2 footer_col2">
+									<div class="column_inner">
+										
+		<div id="recent-posts-3" class="widget widget_recent_entries">
+		<h5>News &#038; Resources</h5>
+		<ul>
+											<li>
+					<a href="https://justcalljonah.com/ultimate-guide-to-deck-building-tips-for-a-sturdy-outdoor-oasis/">Ultimate Guide to Deck Building: Tips for a Sturdy Outdoor Oasis</a>
+									</li>
+											<li>
+					<a href="https://justcalljonah.com/seniors-looking-for-work/">Seniors looking for work?</a>
+									</li>
+											<li>
+					<a href="https://justcalljonah.com/just-call-jonah-moves-into-construction-management-and-more/">Just Call Jonah moves into Construction Management and More!</a>
+									</li>
+											<li>
+					<a href="https://justcalljonah.com/tips-to-staying-mobile-and-flexible-when-its-hard-to-do/">Tips to staying mobile and flexible when it&#8217;s hard to do.</a>
+									</li>
+											<li>
+					<a href="https://justcalljonah.com/seniors-love-to-be-mobile-rides-for-vaccines-or-to-vote/">Seniors love to be mobile! Rides for Vaccines or to Vote!</a>
+									</li>
+					</ul>
+
+		</div>									</div>
+								</div>
+								<div class="column3 footer_col3">
+									<div class="column_inner">
+										<div id="text-9" class="widget widget_text">			<div class="textwidget"><p><div class='q_elements_holder one_column responsive_mode_from_768 alignment_one_column_center eh-with-shadow'  style='background-color:#2c2b29'><div class='q_elements_item ' data-1024-1280='41px 13px 3px 13px' data-animation='no' data-item-class='q_elements_holder_custom_151004' style='vertical-align:middle;text-align:left;'><div class='q_elements_item_inner'><div class='q_elements_item_content q_elements_holder_custom_151004' style='padding:41px 36px 3px 36px'>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center; color: #ffffff;">Monthly Specials</h2>
+
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="color: #5ba510;">Great Deals &amp; No SPAM, we promise!</span></p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+<div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/services/#wpcf7-f5-o1" method="post" class="wpcf7-form init cf7_custom_style_1" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5" />
+<input type="hidden" name="_wpcf7_version" value="5.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div><span class="wpcf7-form-control-wrap text-322"><input type="text" name="text-322" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Name" /></span></div>
+<div><span class="wpcf7-form-control-wrap email-586"><input type="email" name="email-586" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="Email" /></span></div>
+
+<p><input type="submit" value="SIGN UP" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div></div></div></div>	<div class="vc_empty_space"  style="height: 10px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</p>
+</div>
+		</div>									</div>
+								</div>
+							</div>
+															</div>
+				</div>
+							</div>
+					</div>
+							<div class="footer_bottom_holder">
+                									<div class="footer_bottom">
+							<div class="textwidget"><p><b>JUST CALL JONAH | CALL 201-396-5494</b><br />
+© Copyright 2023 All Rights Reserved.<br />
+	<div class="vc_empty_space"  style="height: 30px" ><span
+			class="vc_empty_space_inner">
+			<span class="empty_space_image"  ></span>
+		</span></div>
+
+</p>
+</div>
+					</div>
+								</div>
+				</div>
+	</footer>
+		
+</div>
+</div>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://justcalljonah.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/justcalljonah.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/dist/dom-ready.min.js?ver=93db39f6fe07a70cb9217310bec0a531' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/dist/a11y.min.js?ver=f23e5b9c6e4214e0ec04d318a7c9f898' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4' id='jquery-ui-progressbar-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4' id='jquery-ui-selectable-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4' id='jquery-ui-spinner-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4' id='jquery-ui-tooltip-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4' id='jquery-effects-blind-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4' id='jquery-effects-bounce-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4' id='jquery-effects-clip-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4' id='jquery-effects-drop-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4' id='jquery-effects-explode-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4' id='jquery-effects-fade-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4' id='jquery-effects-fold-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4' id='jquery-effects-highlight-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4' id='jquery-effects-pulsate-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4' id='jquery-effects-size-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4' id='jquery-effects-scale-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4' id='jquery-effects-shake-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4' id='jquery-effects-slide-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4' id='jquery-effects-transfer-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/doubletaptogo.js?ver=5.5.18' id='doubleTapToGo-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/modernizr.min.js?ver=5.5.18' id='modernizr-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.appear.js?ver=5.5.18' id='appear-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/counter.js?ver=5.5.18' id='counter-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/easypiechart.js?ver=5.5.18' id='easyPieChart-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/mixitup.js?ver=5.5.18' id='mixItUp-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js?ver=5.5.18' id='prettyphoto-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.fitvids.js?ver=5.5.18' id='fitvids-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.flexslider-min.js?ver=5.5.18' id='flexslider-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.18' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.18' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/infinitescroll.min.js?ver=5.5.18' id='infiniteScroll-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js?ver=5.5.18' id='waitforimages-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1' id='jquery-form-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/waypoints.min.js?ver=5.5.18' id='waypoints-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jplayer.min.js?ver=5.5.18' id='jplayer-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/bootstrap.carousel.js?ver=5.5.18' id='bootstrapCarousel-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/skrollr.js?ver=5.5.18' id='skrollr-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/Chart.min.js?ver=5.5.18' id='charts-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js?ver=5.5.18' id='easing-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/abstractBaseClass.js?ver=5.5.18' id='abstractBaseClass-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=5.5.18' id='countdown-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.multiscroll.min.js?ver=5.5.18' id='multiscroll-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min.js?ver=5.5.18' id='justifiedGallery-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/bigtext.js?ver=5.5.18' id='bigtext-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js?ver=5.5.18' id='stickyKit-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/owl.carousel.min.js?ver=5.5.18' id='owlCarousel-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/typed.js?ver=5.5.18' id='typed-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=5.5.18' id='carouFredSel-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=5.5.18' id='lemmonSlider-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=5.5.18' id='one_page_scroll-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=5.5.18' id='mousewheel-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=5.5.18' id='touchSwipe-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.isotope.min.js?ver=5.5.18' id='isotope-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=5.5.18' id='packery-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=5.5.18' id='stretch-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=5.5.18' id='imagesLoaded-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=5.5.18' id='rangeSlider-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=5.5.18' id='eventMove-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=5.5.18' id='twentytwenty-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=5.5.18' id='TweenLite-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=5.5.18' id='smoothPageScroll-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBH4K52WX3pYvb0sq7-611I04av2Bpuf3I&#038;ver=5.5.18' id='google_map_api-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/default_dynamic.js?ver=1600281656' id='bridge-default-dynamic-js'></script>
+<script type='text/javascript' id='bridge-default-js-extra'>
+/* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/justcalljonah.com\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/default.min.js?ver=5.5.18' id='bridge-default-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/comment-reply.min.js?ver=5.5.18' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.5' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=qodeRecaptchaCallback&#038;render=explicit&#038;ver=5.5.18' id='recaptcha-js'></script>
+<script type='text/javascript' id='qode-like-js-extra'>
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/justcalljonah.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=5.5.18' id='qode-like-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lc_raEcAAAAANjfEE0peS_o4VnVLPjMn0BN2eNk&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lc_raEcAAAAANjfEE0peS_o4VnVLPjMn0BN2eNk","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://justcalljonah.com/wp-includes/js/wp-embed.min.js?ver=5.5.18' id='wp-embed-js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: justcalljonah.com @ 2026-03-23 06:11:41 by W3 Total Cache
+-->
